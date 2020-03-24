@@ -1,0 +1,25 @@
+{
+  "name": "item-description-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for online shopping website",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/group-thirteen/item-description-proxy.git"
+  },
+  "author": "Peter Shoaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/group-thirteen/item-description-proxy/issues"
+  },
+  "homepage": "https://github.com/group-thirteen/item-description-proxy#readme"
+}
